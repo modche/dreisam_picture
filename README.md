@@ -10,6 +10,9 @@ One river, one spot, many states.
 ![Pic](2018_01_12.JPG)
 i) 5th Jan, ii) 8th Jan, iii) 12th Jan
 
+![Pic](2018_01_series.png)
+
+
 ### Feb 2018 (6.5 qbm/s)
 ![Pic](2018_02_08.JPG)
 
