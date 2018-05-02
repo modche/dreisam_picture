@@ -32,5 +32,5 @@ i) 5th Jan, ii) 8th Jan, iii) 12th Jan
 ![Pic](2018_04_23.JPG)
 
 ### May 2018 (2 m3/s)
-![Pic](2018_05_01.JPG)
+![Pic](2018-05-01.JPG)
 
