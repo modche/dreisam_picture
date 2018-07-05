@@ -43,3 +43,9 @@ i) 5th Jan, ii) 8th Jan, iii) 12th Jan
 
 ![Pic](2018_06_06.JPG)
 ![Pic](2018_06_20.JPG)
+
+
+### July 2018
+
+![Pic](2018_07_03.JPG)
+
