@@ -53,5 +53,5 @@ i) 5th Jan, ii) 8th Jan, iii) 12th Jan
 
 ### August 2018
 
-![Pic](2018_08_08.JPG)
+![Pic](2018_08_08.jpg)
 
