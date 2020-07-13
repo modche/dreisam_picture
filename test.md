@@ -1,7 +1,13 @@
 Habits
 ================
 
+  - [1. R Markdown](#r-markdown)
+
 # 1\. R Markdown
+
+  
+![ z = 1/y](https://latex.codecogs.com/png.latex?%20z%20%3D%201%2Fy
+" z = 1/y")  
 
 This is an R Markdown document. Markdown is a simple formatting syntax
 for authoring HTML, PDF, and MS Word `documents` w For more details on
